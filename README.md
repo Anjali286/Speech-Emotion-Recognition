@@ -16,4 +16,4 @@ Output of this project looks like -
 ![Screenshot (59)](https://github.com/Anjali286/Speech-Emotion-Recognition/assets/99532677/55708a25-b2c4-4025-b2a3-09d32141400a)
 
 
-In future, I am going to create a web based application an add on some amzing and creative features to it.
+In future, I am going to create a web based application for this project and add on some amazing and creative features to it.
