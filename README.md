@@ -11,4 +11,7 @@ Dataset - A predefined dataset is used in this project which is taken from 'The 
 
 Since it is a prediction model so it will give the probability of different emotions expressed through a human voice.
 Output of this project looks like - 
+![Screenshot (59)](https://github.com/Anjali286/Speech-Emotion-Recognition/assets/99532677/55708a25-b2c4-4025-b2a3-09d32141400a)
+
+
 In future, I am going to create a web based application an add on some amzing and creative features to it.
