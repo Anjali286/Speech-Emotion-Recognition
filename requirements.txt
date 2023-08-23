@@ -1,0 +1,5 @@
+Python Libraries:
+transformers
+tensorflow
+SpeechRecognition
+pyaudio
